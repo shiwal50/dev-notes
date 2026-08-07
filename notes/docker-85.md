@@ -1,24 +1,21 @@
-# docker deep dive
+# docker
 
-Spent some time really understanding how docker works under the hood.
+## Problem
 
-## Architecture
+Ran into an issue with docker where environment variables were being silently ignored.
 
-The docker runtime uses a thread pool for I/O and a single thread for coordination. This means CPU-bound work in handlers is the number one performance killer. Offload to workers.
+## Investigation
 
-## Performance characteristics
+Checked the logs, nothing obvious. Enabled debug mode and found that docker was retrying silently and eventually giving up. The retry backoff was exponential with no cap, so after a few failures it was waiting 5+ minutes between retries.
 
-| Operation | Typical latency | Notes |
-|-----------|----------------|-------|
-| Read | 1-5ms | Cached path |
-| Write | 5-20ms | Depends on durability setting |
-| Bulk | 50-200ms | Amortized cost per item is lower |
+## Solution
 
-> These are rough numbers from my testing. YMMV depending on system-design config.
+Turned out to be a path resolution issue. Use absolute paths.
 
-## When to use / when to avoid
+## Lessons
 
-**Use when**: You need docker's specific guarantees and the operational overhead is justified.
-**Avoid when**: A simpler solution (like plain system-design) works fine. Don't add docker just because it's trendy.
+- Always check for env var overrides when config seems to be ignored
+- Add connection timeout logging, not just error logging
+- Test under concurrent load, not just sequential
 
-_2026-07-27_
+_2026-08-07_
