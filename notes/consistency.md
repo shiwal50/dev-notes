@@ -27,3 +27,9 @@ resource.close()
 
 _2026-05-06_
 
+
+## FAQ
+
+**Q: How does this scale?**
+
+A: Follow the principle of least privilege. The default permissions are too broad for production.
