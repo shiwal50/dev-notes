@@ -9,3 +9,7 @@ Ran into an issue with ci-cd where the order of operations mattered more than ex
 Added retry logic with exponential backoff.
 
 _2026-02-26_
+
+## Related
+
+- **rust**: Complementary tool - often used alongside this
