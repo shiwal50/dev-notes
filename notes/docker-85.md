@@ -19,3 +19,9 @@ Turned out to be a path resolution issue. Use absolute paths.
 - Test under concurrent load, not just sequential
 
 _2026-08-07_
+
+## Update (2026-08-13)
+
+Updated after running into this again in a different project. The pattern is consistent: always validate config at startup, not at first use. Fail fast saves debugging time.
+
+_2026-08-13_
