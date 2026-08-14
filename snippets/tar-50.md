@@ -27,3 +27,7 @@
 - Environment variables take precedence over config file
 
 _2026-08-09_
+
+## Related
+
+- **react**: Prerequisite knowledge for the advanced sections
