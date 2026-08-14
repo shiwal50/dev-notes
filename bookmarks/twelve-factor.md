@@ -1,16 +1,9 @@
-# twelve-factor - links
+# twelve-factor - bookmark
 
-## Resources
+This article made it click.
 
-- [twelve-factor reference](https://brandur.org/twelve-factor) - Beginner-friendly
-- [twelve-factor in practice](https://medium.com/twelve-factor-guide) - Hands-on tutorial
+**TL;DR**: Start simple, add complexity when needed.
 
-## Notes
+Related: linux
 
-Useful context for the current project.
-
-## Key quotes
-
-> "Make it work, make it right, make it fast - in that order."
-
-_2026-05-13_
+_2026-05-25_
