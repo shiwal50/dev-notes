@@ -21,3 +21,9 @@ assert output.status == 'ok', f'Expected ok, got {output.status}'
 ```
 
 _2026-05-30_
+
+## FAQ
+
+**Q: Is this production-ready?**
+
+A: Follow the principle of least privilege. The default permissions are too broad for production.
