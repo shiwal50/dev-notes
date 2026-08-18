@@ -20,3 +20,13 @@ _2026-01-15_
 | Community | Large | Growing |
 
 _2026-08-09_
+
+## Comparison with zod
+
+| Aspect | This | zod |
+|--------|------|---|
+| Setup complexity | Medium | Low |
+| Community | Large | Growing |
+| Performance | High | Medium |
+
+_2026-08-18_
