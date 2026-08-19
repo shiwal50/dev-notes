@@ -1,30 +1,38 @@
-# systemd
+# systemd cheatsheet
 
-```
-# systemd config / example
-# -------------------------
-# Keeping this here because I always forget the syntax
+Common systemd operations I use:
 
-# Basic configuration
-# setting_1 = "value"
-# setting_2 = true
-# setting_3 = 30  # seconds
+## 1. Setup / init
 
-# Advanced options (uncomment as needed)
-# pool_size = 10
-# timeout = 5000  # ms
-# retry_count = 3
-# retry_backoff = "exponential"
-
-# Environment-specific overrides
-# Use ENV vars: SYSTEMD_SETTING_1, SYSTEMD_SETTING_2
+```bash
+# initialize a new systemd project
+# typically: install, configure, verify
 ```
 
-## Notes
+## 2. Daily workflow
 
-- Default config is fine for development
-- Tighten timeouts and pool sizes for production
-- Environment variables take precedence over config file
+```bash
+# check status
+# make changes
+# verify changes
+# commit/apply
+```
 
-_2026-06-19_
+## 3. Troubleshooting
 
+```bash
+# check logs
+# verify config
+# test connectivity
+# restart if needed
+```
+
+## 4. Production
+
+- Always use `--dry-run` first
+- Check rollback procedure before applying
+- Monitor metrics after changes
+
+> Will fill in actual commands as I use them.
+
+_2026-08-19_
