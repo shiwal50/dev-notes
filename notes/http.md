@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-08-24 -->
 # http - links
 
 ## Resources
