@@ -11,3 +11,15 @@ Found this while reading the linux source code to debug a solid-principles issue
 Performance improvement is marginal, but code clarity improves a lot.
 
 _2026-08-10_
+
+## Example
+
+```
+# Minimal reproduction of the issue
+# Run with: [command here]
+input = prepare_test_data()
+output = process(input)
+assert output.status == 'ok', f'Expected ok, got {output.status}'
+```
+
+_2026-08-28_
