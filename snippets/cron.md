@@ -11,3 +11,4 @@ _2026-01-18_
 ## Related
 
 - **cqrs**: Uses a similar pattern - worth comparing approaches
+
