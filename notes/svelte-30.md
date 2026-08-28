@@ -33,3 +33,13 @@ _2026-05-14_
 | Community | Large | Growing |
 
 _2026-07-10_
+
+## Comparison with tailwind
+
+| Aspect | This | tailwind |
+|--------|------|--------|
+| Setup complexity | Medium | Low |
+| Community | Large | Growing |
+| Maturity | Stable | Evolving |
+
+_2026-08-28_
