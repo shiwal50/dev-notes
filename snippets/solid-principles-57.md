@@ -19,3 +19,13 @@ echo "cleaning up solid-principles resources..."
 Use this as a starting point for solid-principles automation scripts.
 
 _2026-08-22_
+
+## Comparison with linux
+
+| Aspect | This | linux |
+|--------|------|-----|
+| Performance | High | Medium |
+| Maturity | Stable | Evolving |
+| Learning curve | Steep | Gentle |
+
+_2026-09-01_
