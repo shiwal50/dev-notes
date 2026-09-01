@@ -24,3 +24,15 @@ echo "setup ssl"
 See also: systemd
 
 _Updated 2026-05-27_
+
+## Example
+
+```
+# Minimal reproduction of the issue
+# Run with: [command here]
+input = prepare_test_data()
+output = process(input)
+assert output.status == 'ok', f'Expected ok, got {output.status}'
+```
+
+_2026-09-01_
