@@ -24,3 +24,4 @@ _2026-05-22_
 | Learning curve | Steep | Gentle |
 
 _2026-06-24_
+
