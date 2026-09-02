@@ -7,3 +7,7 @@ Found a good explanation.
 Related: design-patterns
 
 _2026-04-15_
+
+## Related
+
+- **make**: Prerequisite knowledge for the advanced sections
