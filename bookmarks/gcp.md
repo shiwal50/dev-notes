@@ -16,3 +16,13 @@ Clarified some vague points.
 
 _2026-04-27_
 
+
+## Comparison with system-design
+
+| Aspect | This | system-design |
+|--------|------|-------------|
+| Community | Large | Growing |
+| Maturity | Stable | Evolving |
+| Learning curve | Steep | Gentle |
+
+_2026-09-04_
