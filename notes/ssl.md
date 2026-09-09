@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-09-09 -->
 # ssl notes
 
 Quick reference for something I keep forgetting.
