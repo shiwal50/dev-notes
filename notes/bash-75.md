@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-09-09 -->
 # bash
 
 ## What I got wrong
