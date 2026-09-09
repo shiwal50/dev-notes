@@ -6,3 +6,7 @@ Useful patterns:
 - Timeouts should always be explicit.
 
 _2026-02-11_
+
+## Related
+
+- **hexagonal**: Prerequisite knowledge for the advanced sections
