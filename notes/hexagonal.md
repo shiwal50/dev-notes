@@ -1,17 +1,32 @@
-# hexagonal - bookmark
+# hexagonal
 
-This article finally made it click for me.
+## Details
 
-## Summary
+The trick is to separate the read and write paths. Streaming is more resilient to timeouts.
 
-Most edge cases can be handled with good abstractions. The key insight is that hexagonal errors fall into two categories: retryable and terminal. Handle them differently.
+## See also
 
-## Key points
+- concurrency
+- graphql
 
-- hexagonal and node are often used together, but they solve different problems
-- The ecosystem is mature - prefer well-maintained libraries over rolling your own
-- Migration guides between major versions are usually incomplete - test thoroughly
+_2026-01-15_
 
-Related: node, vim
+## Comparison with bash
 
-_2026-08-28_
+| Aspect | This | bash |
+|--------|------|----|
+| Learning curve | Steep | Gentle |
+| Performance | High | Medium |
+| Community | Large | Growing |
+
+_2026-08-09_
+
+## Comparison with zod
+
+| Aspect | This | zod |
+|--------|------|---|
+| Setup complexity | Medium | Low |
+| Community | Large | Growing |
+| Performance | High | Medium |
+
+_2026-08-18_
