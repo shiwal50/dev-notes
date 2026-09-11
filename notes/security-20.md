@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-09-11 -->
 <!-- Last major revision: 2026-06-21 -->
 # security deep dive
 
