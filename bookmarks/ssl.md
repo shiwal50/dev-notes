@@ -15,3 +15,13 @@ Pairs well with the terraform notes.
 
 _2026-05-25_
 
+
+## Comparison with queues
+
+| Aspect | This | queues |
+|--------|------|------|
+| Community | Large | Growing |
+| Maturity | Stable | Evolving |
+| Learning curve | Steep | Gentle |
+
+_2026-09-11_
