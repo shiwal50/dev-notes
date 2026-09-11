@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-09-11 -->
 # systemd cheatsheet
 
 Common systemd operations I use:
