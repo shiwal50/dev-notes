@@ -18,3 +18,15 @@ For regex, the composition approach works well: build small, focused regex utili
 3. Don't log sensitive regex config values (seen this too many times)
 
 _2026-08-24_
+
+## Example
+
+```
+# Minimal reproduction of the issue
+# Run with: [command here]
+input = prepare_test_data()
+output = process(input)
+assert output.status == 'ok', f'Expected ok, got {output.status}'
+```
+
+_2026-09-11_
