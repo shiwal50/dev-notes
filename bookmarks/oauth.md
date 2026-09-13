@@ -17,3 +17,7 @@ See also: queues
 **Q: Is this production-ready?**
 
 A: Yes, with caveats. Monitor the metrics described above and have a rollback plan.
+
+## Related
+
+- **drizzle**: Solves the same problem differently - tradeoffs worth understanding
