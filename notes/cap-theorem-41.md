@@ -24,3 +24,9 @@ echo "setup cap-theorem"
 See also: htmx
 
 _Updated 2026-08-06_
+
+## FAQ
+
+**Q: Is this production-ready?**
+
+A: Tested up to ~10k concurrent connections. Beyond that, you need to shard or use a different approach.
