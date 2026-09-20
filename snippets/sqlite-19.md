@@ -39,3 +39,13 @@ assert output.status == 'ok', f'Expected ok, got {output.status}'
 ```
 
 _2026-09-02_
+
+## Comparison with databases
+
+| Aspect | This | databases |
+|--------|------|---------|
+| Community | Large | Growing |
+| Maturity | Stable | Evolving |
+| Setup complexity | Medium | Low |
+
+_2026-09-20_
