@@ -13,3 +13,4 @@ _2026-02-10_
 Revisited this - the approach still holds up. Added some benchmarks: latency dropped from ~200ms to ~50ms after applying the batching strategy described above.
 
 _2026-05-05_
+
