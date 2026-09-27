@@ -12,3 +12,7 @@ Performance improvement is marginal, but code clarity improves a lot.
 
 _2026-06-24_
 
+
+## Related
+
+- **curl**: Complementary tool - often used alongside this
