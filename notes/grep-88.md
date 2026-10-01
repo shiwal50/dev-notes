@@ -18,3 +18,9 @@ For grep, the composition approach works well: build small, focused grep utiliti
 3. Don't log sensitive grep config values (seen this too many times)
 
 _2026-09-20_
+
+## FAQ
+
+**Q: When should I use this vs the alternative?**
+
+A: Use this when you need the specific guarantees it provides. For simpler cases, the alternative is fine.
