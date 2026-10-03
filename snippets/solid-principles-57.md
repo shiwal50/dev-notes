@@ -29,3 +29,7 @@ _2026-08-22_
 | Learning curve | Steep | Gentle |
 
 _2026-09-01_
+
+## Related
+
+- **sqlite**: Prerequisite knowledge for the advanced sections
