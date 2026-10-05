@@ -14,3 +14,7 @@ Useful context for the current project.
 > "Premature optimization is the root of all evil, but so is premature abstraction."
 
 _2026-05-13_
+
+## Related
+
+- **sqlite**: Complementary tool - often used alongside this
