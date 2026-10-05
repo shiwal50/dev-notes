@@ -1,23 +1,8 @@
-# htmx snippet
+# htmx
 
-```bash
-# useful one-liner
-echo "placeholder for htmx example"
-```
+Useful patterns:
 
-_2026-08-19_
+- Prefer composition over inheritance.
+- Timeouts should always be explicit.
 
-See also: algorithms
-
-
-See also: tailwind
-
-## Update (2026-01-20)
-
-Clarified some vague points.
-
-_2026-08-19_
-
-## Related
-
-- **tcp**: Uses a similar pattern - worth comparing approaches
+_2026-03-05_
