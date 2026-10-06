@@ -6,7 +6,7 @@ Learned about cron today.
 
 Documentation is misleading. Source code tells the real story.
 
-_2026-01-18_
+_2026-10-06_
 
 ## Related
 
