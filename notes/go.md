@@ -20,3 +20,7 @@ assert output.status == 'ok', f'Expected ok, got {output.status}'
 ```
 
 _2026-08-13_
+
+## Related
+
+- **testing**: Uses a similar pattern - worth comparing approaches
