@@ -22,3 +22,17 @@ At its core, tar uses a pipeline architecture. Data flows through stages, each r
 **Avoid when**: A simpler solution (like plain nextjs) works fine. Don't add tar just because it's trendy.
 
 _2026-06-22_
+
+## Example
+
+```
+# Quick example of the pattern described above
+# Step 1: Initialize
+resource = init(config)
+# Step 2: Use
+result = resource.process(data)
+# Step 3: Cleanup
+resource.close()
+```
+
+_2026-10-08_
