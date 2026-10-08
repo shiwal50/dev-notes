@@ -15,3 +15,7 @@ The 80/20 rule applies here - focus on the common case first. 80% of htmx usage 
 Related: make, consistency
 
 _2026-08-16_
+
+## Related
+
+- **websockets**: Solves the same problem differently - tradeoffs worth understanding
