@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-10-10 -->
 <!-- Last major revision: 2026-09-29 -->
 # typescript
 
