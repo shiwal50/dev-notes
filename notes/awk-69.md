@@ -15,3 +15,9 @@ Most edge cases can be handled with good abstractions. The key insight is that a
 Related: architecture, trpc
 
 _2026-04-30_
+
+## Update (2026-10-15)
+
+Found a better way to think about this. Instead of treating it as a request-response pattern, model it as a stream. The API supports both, but streaming is more resilient to timeouts and partial failures.
+
+_2026-10-15_
