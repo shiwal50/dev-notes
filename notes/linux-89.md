@@ -23,3 +23,13 @@ assert output.status == 'ok', f'Expected ok, got {output.status}'
 ```
 
 _2026-08-28_
+
+## Comparison with security
+
+| Aspect | This | security |
+|--------|------|--------|
+| Maturity | Stable | Evolving |
+| Performance | High | Medium |
+| Community | Large | Growing |
+
+_2026-10-16_
