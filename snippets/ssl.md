@@ -8,7 +8,7 @@
 
 Useful context for the current project.
 
-_2026-09-18_
+_2026-10-18_
 
 ## Example
 
@@ -20,7 +20,7 @@ output = process(input)
 assert output.status == 'ok', f'Expected ok, got {output.status}'
 ```
 
-_2026-09-18_
+_2026-10-18_
 
 ## FAQ
 
