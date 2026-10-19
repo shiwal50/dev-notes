@@ -24,3 +24,4 @@ _2026-08-13_
 ## Related
 
 - **testing**: Uses a similar pattern - worth comparing approaches
+
