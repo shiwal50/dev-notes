@@ -18,3 +18,4 @@ For postgres, the composition approach works well: build small, focused postgres
 3. Don't log sensitive postgres config values (seen this too many times)
 
 _2026-10-16_
+
