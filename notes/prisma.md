@@ -13,3 +13,15 @@ _2026-02-23_
 Clarified some vague points.
 
 _2026-04-02_
+
+## Example
+
+```
+# Minimal reproduction of the issue
+# Run with: [command here]
+input = prepare_test_data()
+output = process(input)
+assert output.status == 'ok', f'Expected ok, got {output.status}'
+```
+
+_2026-10-22_
