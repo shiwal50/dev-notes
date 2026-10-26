@@ -14,3 +14,7 @@ Pairs well with the kubernetes notes.
 > "The best code is the code you don't write."
 
 _2026-05-22_
+
+## Related
+
+- **docker**: Solves the same problem differently - tradeoffs worth understanding
