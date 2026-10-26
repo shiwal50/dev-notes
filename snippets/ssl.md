@@ -27,3 +27,17 @@ _2026-10-18_
 **Q: Is this production-ready?**
 
 A: Follow the principle of least privilege. The default permissions are too broad for production.
+
+## Example
+
+```
+# Configuration template
+config:
+  timeout: 5000
+  retries: 3
+  pool_size: 10
+  log_level: info
+  # Override per environment via env vars
+```
+
+_2026-10-26_
