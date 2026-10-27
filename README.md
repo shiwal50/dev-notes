@@ -10,4 +10,4 @@ snippets/    Code snippets and cheatsheets
 bookmarks/   Links and references
 ```
 
-_Last updated: 2026-10-26_
+_Last updated: 2026-10-27_
