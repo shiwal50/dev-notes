@@ -26,3 +26,7 @@ A: Follow the principle of least privilege. The default permissions are too broa
 | Performance | High | Medium |
 
 _2026-08-04_
+
+## Related
+
+- **kubernetes**: Uses a similar pattern - worth comparing approaches
