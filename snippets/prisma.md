@@ -15,3 +15,7 @@ _2026-02-03_
 Found a better way to think about this.
 
 _2026-04-06_
+
+## Related
+
+- **architecture**: Solves the same problem differently - tradeoffs worth understanding
