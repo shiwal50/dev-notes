@@ -16,4 +16,4 @@ Quick regex reference:
 - `--dry-run`: Preview without applying
 - `--force`: Skip confirmations (use carefully)
 
-_2026-08-08_
+_2026-10-30_
