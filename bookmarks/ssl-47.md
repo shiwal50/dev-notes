@@ -13,7 +13,7 @@ Pairs well with the git notes.
 
 > "Premature optimization is the root of all evil, but so is premature abstraction."
 
-_2026-06-19_
+_2026-10-30_
 
 ## FAQ
 
