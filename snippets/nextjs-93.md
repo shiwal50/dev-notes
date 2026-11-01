@@ -15,3 +15,9 @@ _2026-10-08_
 **Q: How does this scale?**
 
 A: Use this when you need the specific guarantees it provides. For simpler cases, the alternative is fine.
+
+## FAQ
+
+**Q: How does this scale?**
+
+A: Use this when you need the specific guarantees it provides. For simpler cases, the alternative is fine.
