@@ -17,3 +17,7 @@ Turns out the sqlite docs describe v1 behavior but v2 changed the defaults. Key 
 
 ---
 _2026-10-23_
+
+## Related
+
+- **redis**: Uses a similar pattern - worth comparing approaches
