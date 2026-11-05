@@ -22,3 +22,4 @@ system-design is built on an event loop model. Understanding this is crucial bec
 **Avoid when**: A simpler solution (like plain python) works fine. Don't add system-design just because it's trendy.
 
 _2026-10-22_
+
