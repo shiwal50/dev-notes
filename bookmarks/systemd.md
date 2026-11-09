@@ -1,16 +1,27 @@
-# systemd - links
+# systemd notes
 
-## Resources
+Quick reference for something I keep forgetting.
 
-- [systemd reference](https://dev.to/systemd) - Beginner-friendly
-- [systemd in practice](https://kentcdodds.com/systemd-guide) - Real-world examples
+## Setup
 
-## Notes
+```bash
+# basic systemd initialization
+# TODO: add actual commands from my project
+echo "setup systemd"
+```
 
-Useful context for the current project.
+## Common patterns
 
-## Key quotes
+1. **Default config**: Usually fine for dev, but tighten for prod
+2. **Error handling**: Always wrap in try/catch (or equivalent)
+3. **Cleanup**: Don't forget teardown - leaks are subtle
 
-> "The first 90% of the code takes 90% of the time. The remaining 10% takes the other 90%."
+## Gotchas
 
-_2026-08-11_
+
+
+
+See also: node
+
+_Updated 2026-05-12_
+
