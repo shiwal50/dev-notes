@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-11-09 -->
 # cron cheatsheet
 
 Common cron operations I use:
