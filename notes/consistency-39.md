@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-11-10 -->
 # consistency - bookmark
 
 Found a good explanation.
