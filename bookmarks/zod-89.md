@@ -14,3 +14,13 @@ Author works at a FAANG - take the scale assumptions with a grain of salt for sm
 > "If you can't explain it simply, you don't understand it well enough."
 
 _2026-09-15_
+
+## Comparison with tcp
+
+| Aspect | This | tcp |
+|--------|------|---|
+| Maturity | Stable | Evolving |
+| Setup complexity | Medium | Low |
+| Learning curve | Steep | Gentle |
+
+_2026-11-11_
