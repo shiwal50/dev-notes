@@ -20,3 +20,9 @@ Had to explicitly set the option - can't rely on defaults.
 
 _2026-04-30_
 
+
+## Update (2026-11-14)
+
+Updated after running into this again in a different project. The pattern is consistent: always validate config at startup, not at first use. Fail fast saves debugging time.
+
+_2026-11-14_
