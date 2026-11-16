@@ -15,3 +15,13 @@ The 80/20 rule applies here - focus on the common case first. 80% of ddd usage n
 Related: deno, ssh
 
 _2026-08-21_
+
+## Comparison with trpc
+
+| Aspect | This | trpc |
+|--------|------|----|
+| Setup complexity | Medium | Low |
+| Maturity | Stable | Evolving |
+| Performance | High | Medium |
+
+_2026-11-16_
