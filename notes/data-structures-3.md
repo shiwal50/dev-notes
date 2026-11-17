@@ -17,3 +17,13 @@ The issue shows up when you combine data-structures with aws. Individually they 
 
 ---
 _2026-09-08_
+
+## Comparison with rest-api
+
+| Aspect | This | rest-api |
+|--------|------|--------|
+| Community | Large | Growing |
+| Maturity | Stable | Evolving |
+| Performance | High | Medium |
+
+_2026-11-17_
