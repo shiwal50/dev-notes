@@ -43,3 +43,7 @@ except:
 ```
 
 _2026-10-12_
+
+## Related
+
+- **curl**: Prerequisite knowledge for the advanced sections
