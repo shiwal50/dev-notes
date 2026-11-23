@@ -22,3 +22,9 @@ The monitoring runtime uses a thread pool for I/O and a single thread for coordi
 **Avoid when**: A simpler solution (like plain nginx) works fine. Don't add monitoring just because it's trendy.
 
 _2026-10-28_
+
+## Update (2026-11-23)
+
+Found a better way to think about this. Instead of treating it as a request-response pattern, model it as a stream. The API supports both, but streaming is more resilient to timeouts and partial failures.
+
+_2026-11-23_
