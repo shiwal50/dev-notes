@@ -43,3 +43,9 @@ except:
 ```
 
 _2026-11-21_
+
+## Update (2026-11-24)
+
+Revisited this - the approach still holds up. Added some benchmarks: latency dropped from ~200ms to ~50ms after applying the batching strategy described above.
+
+_2026-11-24_
