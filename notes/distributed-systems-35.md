@@ -10,4 +10,4 @@ Was working on the react integration and stumbled onto this. The distributed-sys
 
 Performance improvement is marginal, but code clarity improves a lot.
 
-_2026-10-09_
+_2026-11-24_
