@@ -18,3 +18,7 @@ For microservices, the composition approach works well: build small, focused mic
 3. Don't log sensitive microservices config values (seen this too many times)
 
 _2026-11-05_
+
+## Related
+
+- **ci-cd**: Solves the same problem differently - tradeoffs worth understanding
