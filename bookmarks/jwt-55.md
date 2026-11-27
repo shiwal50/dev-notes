@@ -14,3 +14,4 @@ Pairs well with the logging notes.
 > "If you can't explain it simply, you don't understand it well enough."
 
 _2026-10-16_
+
