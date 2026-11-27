@@ -1,3 +1,4 @@
+<!-- Last major revision: 2026-11-27 -->
 # clean-code notes
 
 Quick reference.
